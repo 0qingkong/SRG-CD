@@ -1,0 +1,9 @@
+﻿metric,value
+total_records,1408
+success_records,976
+failed_records,432
+detection_success_rate,0.6931818181818182
+diagnostic_correct_records,694
+diagnostic_incorrect_records,282
+diagnostic_consistency_rate,0.7110655737704918
+visualized_cases,60
